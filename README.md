@@ -11,7 +11,7 @@ Direct Involvement = lets people know they post there<br>
 | NyaaPantsu                 | Software/Website         | [Website](https://nyaa.pantsu.cat/)                                                   | /g/             | Active Involvement   | [(Code)](https://github.com/NyaaPantsu/nyaa) |
 | Cock.li                    | Email Service            | [Website](https://cock.li/)                                                           | /g/             | Owner Involved       |                            |
 | Cockbox                    | Hosting                  | [Website](https://cockbox.org)                                                        | /g/             | Owner Involved       |                            |
-| VC/gexcolo                 | Owns Cock.li/Cockbox     | [Website](https://vc.gg/)                                                            | /g/             | Direct Involvement   |                            |
+| VC/gexcolo                 | Owns Cock.li/Cockbox     | [Website](https://vc.gg/)                                                             | /g/             | Direct Involvement   |                            |
 | Oppaitime                  | Private Tracker          | [Website](https://oppaiti.me/)                                                        | /g/             | Active Involvement   | [(Code)](https://git.oppaiti.me/Oppaitime/Gazelle/) |
 | mutracker                  | Private Tracker          | [Website](https://mutracker.org/)                                                     | /mu/            | Active Involvement   |                            | ded
 | HVDB                       | Private DDL H-Voice Site | [Website](https://hvdb.me)                                                            | /h/             | Active Involvement   |                            |
@@ -83,16 +83,10 @@ Direct Involvement = lets people know they post there<br>
 | Archive Of Sins            | FoolFuuka Archive        | [Website](https://archiveofsins.com/)                                                 |                 |                      |                            |
 | arch.b4k.co                | Archive                  | [Website](http://arch.b4k.co/)                                                        |                 |                      |                            |
 | yuki.la                    | Archive                  | [Website](https://yuki.la/)                                                           |                 |                      |                            |
+| William Shatner            | Actor                    | [Twitter](https://twitter.com/WilliamShatner)                                         | /tv/            | Active Involvement   |                            |
+| Justin Roiland             | Actor/Producer           | [Twitter](https://twitter.com/justinroiland)                                          | /co/            | Direct Involvement   |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
-|                            |                          |                                                                                       |                 |                      |                            |
-|                            |                          |                                                                                       |                 |                      |                            |
-|                            |                          |                                                                                       |                 |                      |                            |
-
-
-
-
-
 
 
 
