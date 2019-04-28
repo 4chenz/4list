@@ -66,13 +66,36 @@ Direct Involvement = lets people know they post there<br>
 | W.T. Snacks                | Former Mod And DJ        | [Website](https://midnightsnacks.fm/)                                                 |                 | Active Involvement   |                            |
 | invisibro/swaglord         | Current Mod              | [Twitter](https://twitter.com/invisibro)                                              | [s4s] :^)       | Active Involvement   |                            |
 | Trevor Moore               | Comedian/Actor           | [Website](http://www.trevormoore.org/)                                                | /b/             | Browses At Least     |                            |
+| Andrew W.K                 | Artist                   | [Website](http://www.andrewwk.com/)                                                   | /mu/            | Did a Q&A            |                            |
+| deadmau5                   | DJ/Artist/Custom Capcode | [Twitter](https://twitter.com/deadmau5)                                               | /mu/            | Did a Q&A            |                            |
+| Tattun                     | #Verified                |                                                                                       | /a/             | Does lots of Q&As    |                            |
+| archived.moe               | FoolFuuka Archive        | [Website](https://archived.moe/)                                                      |                 |                      |                            |
+| 4plebs                     | FoolFuuka Archive        | [Website](https://4plebs.org/)                                                        |                 |                      |                            |
+| warosu                     | Fuuka Archive            | [Website](http://warosu.org/)                                                         |                 |                      |                            |
+| Desuarchive                | FoolFuuka Archive        | [Website](https://desuarchive.org/)                                                   |                 |                      |                            |
+| Rebecca Black Tech         | FoolFuuka Archive        | [Website](https://archive.rebeccablacktech.com/)                                      |                 |                      |                            |
+| nyafuu                     | FoolFuuka Archive        | [Website](https://archive.nyafuu.org/)                                                |                 |                      |                            |
+| fireden                    | FoolFuuka Archive        | [Website](https://boards.fireden.net/)                                                |                 |                      |                            |
+| b-stats                    | Archive                  | [Website](https://archive.b-stats.org/)                                               |                 |                      |                            |
+| The /b/ Archive            | FoolFuuka Archive        | [Website](https://thebarchive.com/)                                                   |                 |                      |                            |
+| Archive Of Sins            | FoolFuuka Archive        | [Website](https://archiveofsins.com/)                                                 |                 |                      |                            |
+| arch.b4k.co                | Archive                  | [Website](http://arch.b4k.co/)                                                        |                 |                      |                            |
+| yuki.la                    | Archive                  | [Website](https://yuki.la/)                                                           |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
-|                            |                          |                                                                                       |                 |                      |                            |
-|                            |                          |                                                                                       |                 |                      |                            |
+
+
+
+
+
+
+
+
+
+
 
 
 
