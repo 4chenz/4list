@@ -85,11 +85,27 @@ Direct Involvement = lets people know they post there<br>
 | yuki.la                    | Archive                  | [Website](https://yuki.la/)                                                           |                 |                      |                            |
 | William Shatner            | Actor                    | [Twitter](https://twitter.com/WilliamShatner)                                         | /tv/            | Active Involvement   |                            |
 | Justin Roiland             | Actor/Producer           | [Twitter](https://twitter.com/justinroiland)                                          | /co/            | Direct Involvement   |                            |
+| OnlyAfro                   | Youtuber                 | [Youtube](https://www.youtube.com/user/OnlyAfro)                                      | /v/             | Direct Involvement   |                            |
+| SsethTzeentach             | Youtuber                 | [Youtube](https://www.youtube.com/channel/UCD6VugMZKRhSyzWEWA9W2fg)                   | /v/             | ?                    |                            |
+| Sam Hyde                   | Comedian/Living Meme     | [Youtube](https://www.youtube.com/channel/UCfUaZ8Ra7m7BqUEACv2jySw)                   | /pol/           | Direct Involvement   |                            | Lots of channels.
+| Alex Jones                 | Radio Host               | [Website](https://www.infowars.com/)                                                  | /pol/           | Direct Involvement   |                            |
+| Rank10YGO                  | Youtuber                 | [Youtube](https://www.youtube.com/channel/UC13UOHk5D9S1cqWkYf8LTmQ)                   | /v/             | Direct Involvement   |                            |
+| Digibro                    | Youtuber                 | [Youtube](https://www.youtube.com/user/DigibronyMLP)                                  | /a/             | Direct Involvement   |                            |
+| RoneryAnon                 | Youtuber                 | [Youtube](https://www.youtube.com/user/roneryanon)                                    | /a/             | Direct Involvement   |                            |
+| Jebus                      | Artist                   | [Discogs](https://www.discogs.com/artist/6926238-Jebus-Matoi)                         | /a/             | Active Involvement   |                            |
+| Bizonacci                  | Youtuber                 | [Youtube](https://www.youtube.com/channel/UCTU7zMqyCsIcaYWwtjemYoQ/videos)            | /biz/           | Direct Involvement   |                            |
+| MandaloreGaming            | Youtuber                 | [Youtube](https://www.youtube.com/channel/UClOGLGPOqlAiLmOvXW5lKbw)                   |                 | Direct Involvement   |                            |
+| YandereDev/EvaXephon       | Game Dev                 | [Game](https://yanderesimulator.com/)                                                 |                 | Active Involvement   |                            |
+| ICARUSLIV3S                | Youtuber                 | [Youtube](https://www.youtube.com/ICARUSLIV3S)                                        |                 | Direct Involvement   |                            |
+| terminusest13              | Youtuber                 | [Youtube](https://www.youtube.com/user/TerminusEst13)                                 | /pol/ /vg/      | Active Involvement   |                            |
+| Jo Pereira                 | Drawfag                  | [deviantart](https://www.deviantart.com/jopereira)                                    | /tg/            | Active Involvement   |                            |
+| ricesnot                   | Youtuber                 | [Youtube](https://www.youtube.com/user/ricesnot)                                      |                 | Direct Involvement   |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
-
-
-
+|                            |                          |                                                                                       |                 |                      |                            |
+|                            |                          |                                                                                       |                 |                      |                            |
+|                            |                          |                                                                                       |                 |                      |                            |
+|                            |                          |                                                                                       |                 |                      |                            |
 
 
 
