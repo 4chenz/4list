@@ -67,8 +67,8 @@ Direct Involvement = lets people know they post there<br>
 | Hiroyuki Nishimura         | 4chan Owner              | [Twitter](https://twitter.com/hiroyuki_ni)                                            |                 | Active Involvement   |                            |
 | W.T. Snacks                | Former Mod And DJ        | [Website](https://midnightsnacks.fm/)                                                 |                 | Active Involvement   |                            |
 | invisibro/swaglord         | Current Mod              | [Twitter](https://twitter.com/invisibro)                                              | [s4s] :^)       | Active Involvement   |                            |
-| Trevor Moore               | Comedian/Actor           | [Website](http://www.trevormoore.org/)                                                | /b/             | Browses At Least     |                            |
-| Andrew W.K                 | Artist                   | [Website](http://www.andrewwk.com/)                                                   | /mu/            | Did a Q&A            |                            |
+| Trevor Moore               | Comedian/Actor           | [Website](http://www.trevormoore.org/)                                                | /b/             | Active Involvement   |                            |
+| Andrew W.K                 | Artist                   | [Website](http://www.andrewwk.com/)                                                   | /m/ /mu/        | Did a Q&A            |                            |
 | deadmau5                   | DJ/Artist/Custom Capcode | [Twitter](https://twitter.com/deadmau5)                                               | /mu/            | Did a Q&A            |                            |
 | Tattun                     | #Verified                |                                                                                       | /a/             | Does lots of Q&As    |                            |
 | archived.moe               | FoolFuuka Archive        | [Website](https://archived.moe/)                                                      |                 |                      |                            |
@@ -109,21 +109,28 @@ Direct Involvement = lets people know they post there<br>
 | Black Pigeon Speaks        | Youtuber                 | [Youtube](https://www.youtube.com/channel/UCmrLCXSDScliR7q8AxxjvXg)                   | /pol/           | Direct Involvement   |                            |
 | Ramen                      | Drawfag                  | [Tumblr](https://ramenwarwok.tumblr.com/)                                             |                 | Active Involvement   |                            |
 | Dan Kim                    | Drawfag                  | [Website](http://manga.clone-army.org/)                                               |                 | Active Involvement   |                            |
+| Stanpai                    | Youtuber                 | [Youtube](https://www.youtube.com/channel/UCqsxpXEPQvs9CmFFoH3YqvA)                   | /v/             | Active Involvement   |                            |
+| HorribleSubs               | Anime Release Group      | [Website](https://horriblesubs.info/)                                                 | /a/             | Active Involvement   |                            |
+| Daiz                       | Translator               | [Twitter](https://twitter.com/Daiz42)                                                 | /a/             | Active Involvement   |                            |
+| Heyuri                     | File Host                | [Website](https://heyuri.cf/?page=main)                                               | /qa/            | Active Involvement   |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
+|                            |                          |                                                                                       |                 |                      |                            |
+|                            |                          |                                                                                       |                 |                      |                            |
 
 
+<!--
+Thread #1: https://boards.4channel.org/qa/thread/2715084
+Thread #2:https://boards.4channel.org/qa/thread/2717149
 
-
-
-
-
-
-
+haven't seen enough proofs:
+fitzthistlewitz
+mechagamezilla
+-->
 
 
 
