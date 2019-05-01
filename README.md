@@ -113,7 +113,7 @@ Direct Involvement = lets people know they post there<br>
 | HorribleSubs               | Anime Release Group      | [Website](https://horriblesubs.info/)                                                 | /a/             | Active Involvement   |                            |
 | Daiz                       | Translator               | [Twitter](https://twitter.com/Daiz42)                                                 | /a/             | Active Involvement   |                            |
 | Heyuri                     | File Host                | [Website](https://heyuri.cf/?page=main)                                               | /qa/            | Active Involvement   |                            |
-|                            |                          |                                                                                       |                 |                      |                            |
+| Bibliotheca Anonoma        | Research/Archivists      | [Website](https://wiki.bibanon.org/Main_Page)                                         |                 | Active Involvement   |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
 |                            |                          |                                                                                       |                 |                      |                            |
@@ -125,7 +125,7 @@ Direct Involvement = lets people know they post there<br>
 
 <!--
 Thread #1: https://boards.4channel.org/qa/thread/2715084
-Thread #2:https://boards.4channel.org/qa/thread/2717149
+Thread #2: https://boards.4channel.org/qa/thread/2717149
 
 haven't seen enough proofs:
 fitzthistlewitz
